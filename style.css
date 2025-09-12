@@ -105,7 +105,9 @@ footer {
     text-align: center;
     width: 100%;
     height: 50px;
+    padding-top: 10px;
 }
+
 
 .section-class {
     display: flex;
@@ -154,7 +156,7 @@ img {
 .para {
     width: 100%;
     padding: 20px;
-    background-color: grey;
+    background-color: #6e757d;
     color: white;
     text-align: center;
 }
@@ -168,6 +170,7 @@ img {
 }
 
 .card {
+
     background: white;
     border: 1px solid #ddd;
     margin-top: 30px;
@@ -182,10 +185,10 @@ img {
     margin-left: 20px; 
 }
 .card h3 {
-    margin-bottom: 10px;
     font-size: 20px;
     font-weight: bold;
-    padding: 20px;
+    padding: 10px;
+
 }
 
 .card p {
@@ -193,7 +196,8 @@ img {
     font-size: 15px;
     line-height: 1.5;
     flex-grow: 1;
-    padding: 20px;
+    padding: 10px;
+
 }
 
 .card .btn {
@@ -215,10 +219,11 @@ img {
 
 
 .cardin {
+    border-top: 1px solid lightgray;
     width: 100%;
     height: 60px;
-    background-color: grey;
-    border-radius: 5px;
+    background-color: #f6f7f6;
+    border-radius: 0px 0px 5px 5px;
 }
 
 
