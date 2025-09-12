@@ -159,6 +159,7 @@ img {
     background-color: #6e757d;
     color: white;
     text-align: center;
+    border-radius: 5px;
 }
 
 .cards {
