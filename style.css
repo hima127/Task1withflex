@@ -20,10 +20,11 @@ header {
 }
 
 .container {
-    max-width: 1200px;
+    max-width: 1240px;
     width: 100%;
     margin: auto;
-    display: flex;
+    padding-left: 20px;
+    padding-right: 20px;
     justify-content: space-between;
     align-items: center;
 }
